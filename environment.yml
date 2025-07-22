@@ -1,0 +1,19 @@
+name: data-science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.5
+  - pandas=2.3.1
+  - numpy=2.3.1
+  - scipy=1.16.0
+  - matplotlib=3.10.3
+  - seaborn=0.13.2
+  - statsmodels=0.14.5
+  - scikit-learn=1.7.1
+  - jupyter=1.1.1
+  - ipykernel=6.29.5
+  - pip=25.1.1
+  # Uncomment and add items only when you really have pip-only packages
+  # - pip:
+  #  -  Add any pip-only packages here if needed
