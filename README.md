@@ -4,13 +4,15 @@ A repository template for my data science &amp; analytics, machine &amp; statist
 ## Project Structure
 ```
 your-project/
-├─ data/           # tiny sample or download script
+├─ data/
+|  ├─ processed/         
+|  └─ raw/
 ├─ notebooks/
 │   ├─ 01_import_data.ipynb
 │   ├─ 02_clean_data.ipynb
 │   └─ 03_eda.ipynb            
-├─ environment.yml # conda or pip-tools
-├─ README.md       # problem, methods, findings, next steps
+├─ environment.yml 
+├─ README.md       
 ├─ LICENSE
 └─ .gitignore
 ```
