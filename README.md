@@ -2,6 +2,7 @@
 A repository template for my data science &amp; analytics, machine &amp; statistical learning, and data-related projects
 
 ## Project Structure
+```
 your-project/
 ├─ data/           # tiny sample or download script
 ├─ notebooks/
@@ -12,6 +13,7 @@ your-project/
 ├─ README.md       # problem, methods, findings, next steps
 ├─ LICENSE
 └─ .gitignore
+```
 
 ## Installation
 Install required resources by running
